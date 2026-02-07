@@ -107,3 +107,4 @@ def main():
 
 if __name__ == "__main__":  # O(1)
     main()                   # O(n^3) por la llamada principal
+# TODO: websocket feature placeholder
